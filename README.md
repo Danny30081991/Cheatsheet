@@ -1,2 +1,2 @@
 # Cheatsheet
-My first Code, basic cheatsheet.
+My first Code. Basic cheatsheet :)
