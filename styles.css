@@ -1,0 +1,47 @@
+*{
+    background-color: lightblue;
+    
+}
+.mainheading{
+    width: 100%; !important;
+    text-align: center;
+    color:: black;
+    font-size:25px;
+    font-family:Arial, sans-serif;
+    font-weight:bold;
+    border: 2px black dashed;
+
+}
+th{ 
+    border: 2px solid black;
+}
+.maint td{
+    text-align: center;
+    
+    border: 1px solid black;
+
+}
+
+.heading2{
+    font-size: 20px;
+    font-family:Avantgarde, TeX Gyre;
+}
+
+.heading3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.table{ 
+    border: 3px black solid;
+}
+    
+.table1, .heading2 {
+    border: 3px black solid;
+}
+ td{
+     border: 1px black dashed;
+ }
+ p {
+     margin: auto;
+ }
